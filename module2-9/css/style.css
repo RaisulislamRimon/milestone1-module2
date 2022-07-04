@@ -1,0 +1,10 @@
+p{
+    background-color: aqua;
+    font-size: larger;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: justify;
+}
+h3{
+    display: inline; 
+}
